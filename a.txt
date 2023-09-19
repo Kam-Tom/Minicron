@@ -1,0 +1,9 @@
+16:54:ls -l | grep list:0
+16:50:ls -l | grep list | wc:0
+19:40:ls -l | grep list | wc:0
+16:48:firefox:1
+16:17:firefox:1
+
+213:2:s:4
+
+21:36:echo 123:0
