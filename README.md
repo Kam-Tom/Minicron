@@ -1,5 +1,5 @@
 # Minicron
-Minicron: Lekki program uruchamiący programy o określonych porach.
+Minicron: Lekki program uruchamiający programy o określonych porach.
 
 W folderze znajduje się pliki:
 - `Makefile`
